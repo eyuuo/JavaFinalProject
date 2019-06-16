@@ -1,5 +1,5 @@
 package edu.handong.analysis.datamodel;
 
-public class Student {
+public class HomWork {
 
 }
